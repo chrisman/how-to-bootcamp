@@ -48,7 +48,7 @@ Here are some tips and suggestions I have for how get organized and be effecient
 
 On tools in general, set aside up to an hour a week to do nothing but investigate and more deeply learn your tools. Learn a new keyboard shortcut for your text editor or browser, and commit to incorporating that into your workflow.
 
-Learn [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/).
+2. Learn [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/).
 
 1. [Spectacle](https://www.spectacleapp.com/) - window management for MacOS
 
@@ -58,7 +58,7 @@ Learn [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools
 
 ## CSS
 
-Naming things is hard. Pick a CSS methodology like [BEM](https://css-tricks.com/bem-101/) and try it out. It will help you think about your project a little more modularly.
+Naming things is hard. Pick a CSS methodology like [BEM] or [Suit] and try it out. It will at least give you a different vocabulary with which to think about and organize your project.
 
 Other resources:
 
@@ -68,11 +68,21 @@ Other resources:
 
 * [Flexbox Froggy](http://flexboxfroggy.com/) - practice some flex display!
 
-You'll event
+You'll eventually start using a pre-processer and start writting [sass], which is awesome. And you'll start using a framework like [Bootstrap] or [Foundation], both of which are probably way overkill for small, simple projects. Definitely try them because you'll want to be familiar with them, but then consider trying a more minimal framework like [skeleton] or [milligram].
+
+[BEM]: https://css-tricks.com/bem-101/
+[Suit]: https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md
+[sass]: http://sass-lang.com/
+[Bootstrap]: http://getbootstrap.com/
+[Foundation]: http://foundation.zurb.com/
+[skeleton]: http://getskeleton.com/
+[milligram]: https://milligram.github.io/
 
 ## JavaScript
 
-* [eloquent javascript](http://eloquentjavascript.net/) - classic text
+* [exercism](http://exercism.io/) - complete coding challenges
+
+* [eloquent javascript](http://eloquentjavascript.net/) - read it and complete the exercises
 
 ## Podcasts and Books and Blogs
 
@@ -103,6 +113,12 @@ I tried listening to podcasts a little bit, but never really got into it. Noneth
 * [changelog](https://changelog.com/podcast)
 
 * [programming throwdown](http://www.programmingthrowdown.com/)
+
+### Books
+
+* The Pragmatic Programmer
+
+* Learn to Program
 
 ### Blogs
 

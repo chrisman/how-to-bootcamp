@@ -13,10 +13,8 @@ Here are some tips and suggestions I have for how get organized and be effecient
 4. Try not to ever be stuck on any one thing for more than 30 minutes. If you suddenly realize it's been 45 - 60 minutes, _stop immediately_ and ask for help. Ask classmates, teachers, slack, mentors, etc. If none of those are available, just stop and work on something else for a bit.
 
 3. It may sound funny, but I swear putting on a pair of headphones and listening to soma.fm boosts my productivity 50%.
-
-    * [space station](http://somafm.com/player/#/now-playing/spacestation)
-
-    * [secret agent](http://somafm.com/player/#/now-playing/secretagent)
+  * [space station](http://somafm.com/player/#/now-playing/spacestation)
+  * [secret agent](http://somafm.com/player/#/now-playing/secretagent)
 
 ## Class and People and Human Resources
 

@@ -16,6 +16,8 @@ Here are some tips and suggestions I have for how get organized and be effecient
   * [space station](http://somafm.com/player/#/now-playing/spacestation)
   * [secret agent](http://somafm.com/player/#/now-playing/secretagent)
 
+3. No coding before bed. I remember during stressful projects coding right up till I couldn't stay awake any longer, and then having stressful code dreams all night, and waking up feeling unrested and even more stressed. Give yourself a 'code freeze' an hour or more before bed, and do something to clear your mind. Yoga and a cup of tea. Something to relax and calm your mind.
+
 ## Class and People and Human Resources
 
 * Taking notes vs. Class participation. I tried a couple note-taking methods, including paper and pen and Evernote, but eventually stopped trying to take notes altogether, and instead used my time in class actively listening, coding along with the lecture and examples, and asking questions. I found I grasped concepts better that way, and could use time outside lectures to repeat and recreate and apply those concepts in order to reinforce them.

@@ -12,27 +12,39 @@ Here are some tips and suggestions I have for how get organized and be effecient
 
 4. Try not to ever be stuck on any one thing for more than 30 minutes. If you suddenly realize it's been 45 - 60 minutes, _stop immediately_ and ask for help. Ask classmates, teachers, slack, mentors, etc. If none of those are available, just stop and work on something else for a bit.
 
+3. It may sound funny, but I swear putting on a pair of headphones and listening to soma.fm boosts my productivity 50%.
+
+  * [space station](http://somafm.com/player/#/now-playing/spacestation)
+
+  * [secret agent](http://somafm.com/player/#/now-playing/secretagent)
+
 ## Class and People and Human Resources
 
-* Your classmates and TAs and instructors are your biggest assets. Use them and talk to them. They'll be your support group during the program, and your network afterward while you're looking for a job.
+* Taking notes vs. Class participation. I tried a couple note-taking methods, including paper and pen and Evernote, but eventually stopped trying to take notes altogether, and instead used my time in class actively listening, coding along with the lecture and examples, and asking questions. I found I grasped concepts better that way, and could use time outside lectures to repeat and recreate and apply those concepts in order to reinforce them.
 
-* Meetups. Go to a meetup once a week or so. You can live off the free pizza and beer, and you'll meet people who are established in the industry.
+* Your classmates and TAs and instructors are big assets. Use them and talk to them. They'll be your support group during the program, and your network afterward while you're looking for a job.
+
+* Meetups. Go to a meetup once a week or so. You can live off the free pizza and beer, and you'll meet people who are established in the industry, and also new people who are in the same boat as you are.
 
 * Slack. Participate in Denver-Devs.
 
 ## Jobs and Resumes and Marketing and Networking
 
-* Make a portfolio website. Github offers [free hosting](https://pages.github.com/). Buy a cheap domain to point to it. 
+* Make a portfolio website. Github offers [free hosting](https://pages.github.com/). Buy a cheap domain to point to it. It's okay to start putting stuff in your portfolio right now. It'll chart your progress and growth.
 
 * Consider blogging, even if just for yourself. It'll help you organize and articulate your thoughts. A 'Week In Review' post each week will help you keep track of what you know.
 
-* Reach out to people on LinkedIn. I used to cold contact the VP of Tech (or some similar title) at companies I was interested in and ask them out for a cup of coffee. Most people were surprisingly receptive to this. Especially if you frame the conversation as "I'm new to the industry and would like to hear about what you do and how you got started, and whether you have any advice for somebody just getting started."
+* Reach out to people on LinkedIn. I used to cold contact whoever had the equivelant title of "VP of Tech" at companies I was interested in and ask them out for a cup of coffee. Most people were surprisingly receptive to this. Especially if you frame the conversation as "I'm new to the industry and would like to hear about what you do and how you got started, and whether you have any advice for somebody just getting started."
 
 ## Terminal
 
-1. [ohmyzsh](http://ohmyz.sh/) - framework for the zsh shell. If for nothing else, worth it for the github plugins
-
 2. [Command Line Mysteries](https://github.com/veltman/clmystery) - Learn some commandline utilities.
+
+1. [ohmyzsh](http://ohmyz.sh/) - framework for the zsh shell. If for nothing else, worth it for the github plugins. Alternately, try [bash-it](https://github.com/Bash-it/bash-it).
+
+2. [diff so fancy](https://github.com/so-fancy/diff-so-fancy) makes `git diff` a little more pleasant to read.
+
+3. [the silver searcher](https://github.com/ggreer/the_silver_searcher). use `ag` to quickly search your project
 
 ## Other Tools and Programs
 
@@ -93,3 +105,9 @@ I tried listening to podcasts a little bit, but never really got into it. Noneth
 * [changelog](https://changelog.com/podcast)
 
 * [programming throwdown](http://www.programmingthrowdown.com/)
+
+### Blogs
+
+* Reddit. Maybe start with [/r/web_design](https://www.reddit.com/r/web_design/) and branch out to "related subreddits" in the side bar
+
+* Medium. Follow a few tags like [design](https://medium.com/tag/design) and [web-development](https://medium.com/tag/web-development)

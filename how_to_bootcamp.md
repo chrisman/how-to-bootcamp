@@ -46,6 +46,20 @@ Here are some tips and suggestions I have for how get organized and be effecient
 
 3. [the silver searcher](https://github.com/ggreer/the_silver_searcher). use `ag` to quickly search your project
 
+## Atom/Text Editors
+
+I didn't use Atom that much for that long. But here are a few plugins I remember liking.
+
+* emmet - powerful HTML expansion
+
+* color-picker - quick access to a color picker
+
+* pigmets - highlight colors in your CSS.
+
+* minimap - tiny little map of your whole file
+
+* atom-beautify - fix indenting
+
 ## Other Tools and Programs
 
 On tools in general, set aside up to an hour a week to do nothing but investigate and more deeply learn your tools. Learn a new keyboard shortcut for your text editor or browser, and commit to incorporating that into your workflow.
@@ -57,6 +71,8 @@ On tools in general, set aside up to an hour a week to do nothing but investigat
 2. [flux](https://justgetflux.com/) - don't burn out your retinas
 
 3. [Sip](http://sipapp.io/) - color picker
+
+4. [screenhero](https://screenhero.com/) - for screensharing. many a late night debugging session was done over screenhero.
 
 ## CSS
 
@@ -118,7 +134,7 @@ I tried listening to podcasts a little bit, but never really got into it. Noneth
 
 ### Books
 
-* The Pragmatic Programmer
+* The Pragmatic Programmer - It's on literally everybody's required reading list. I read it. It's good.
 
 * Learn to Program
 

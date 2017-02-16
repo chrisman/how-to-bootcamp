@@ -24,9 +24,20 @@ Here are some tips and suggestions I have for how get organized and be effecient
 
 * Your classmates and TAs and instructors are big assets. Use them and talk to them. They'll be your support group during the program, and your network afterward while you're looking for a job.
 
-* Meetups. Go to a meetup once a week or so. You can live off the free pizza and beer, and you'll meet people who are established in the industry, and also new people who are in the same boat as you are.
+* Meetups. Go to a meetup once a week or so. You can live off the free pizza and beer, and you'll meet people who are established in the industry, and also new people who are in the same boat as you are. In my experience, the meetup scene is very welcoming to beginners and newbies. Don't be afraid of semming like you don't belong. It's kind of like coding: just start doing it, and then you're a coder! Just go to a meetup, and then you're someone who goes to meetups!
 
-* Slack. Participate in Denver-Devs.
+  A couple of especially friendly meetups I've been to:
+
+  * [HTML5 User Group](https://www.meetup.com/HTML5-Denver-Users-Group/)
+  * [DenverScrip](https://www.meetup.com/DenverScript/)
+  * [RefreshDenver](https://www.meetup.com/refreshdenver/) - Designers and Developers!
+  * [Ember.js](https://www.meetup.com/Ember-js-Denver/) - Still have yet to actually _use_ Ember ever, but the community is just so awesome.
+
+* Slack. Participate in [Denver-Devs](https://denverdevs.org/).
+
+  * General conversation: join #topic-todayi to talk about and celebrate small victories and accomplishments, not necessarily code related.
+
+  * Meet people: Join #topic-lunches to get in on lunch outings. Join #meet-in-greet to be paired up with somebody random for a coffee date.
 
 ## Jobs and Resumes and Marketing and Networking
 
@@ -47,6 +58,20 @@ Here are some tips and suggestions I have for how get organized and be effecient
 3. [the silver searcher](https://github.com/ggreer/the_silver_searcher). use `ag` to quickly search your project
 
 ## Atom/Text Editors
+
+__General__
+
+From _[Seven habits of effective text editing](http://www.moolenaar.net/habits.html)_ by the author of vim:
+
+> There are three basic steps:
+> 
+> 1. While you are editing, keep an eye out for actions you repeat and/or spend quite a bit of time on.
+> 2. Find out if there is an editor command that will do this action quicker. Read the documentation, ask a friend, or look at how others do this.
+> 3. Train using the command. Do this until your fingers type it without thinking.
+
+Invest in learning to type less. Learn shortcuts and use them relentlessly.
+
+__Atom Plugins__
 
 I didn't use Atom that much for that long. But here are a few plugins I remember liking.
 
@@ -143,3 +168,5 @@ I tried listening to podcasts a little bit, but never really got into it. Noneth
 * Reddit. Maybe start with [/r/web_design](https://www.reddit.com/r/web_design/) and branch out to "related subreddits" in the side bar
 
 * Medium. Follow a few tags like [design](https://medium.com/tag/design) and [web-development](https://medium.com/tag/web-development)
+
+* [Hacker News](https://news.ycombinator.com/). Aggregator. Not a blog.

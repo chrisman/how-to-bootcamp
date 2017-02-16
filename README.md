@@ -33,7 +33,7 @@ Here are some tips and suggestions I have for how get organized and be effecient
 
 * Slack. Participate in [Denver-Devs](https://denverdevs.org/). Get to know your neighbors!
   * General conversation: join #topic-todayi to talk about and celebrate small victories and accomplishments, not necessarily code related.
-  * Meet people: Join #topic-lunches to get in on lunch outings. Join #meet-in-greet to be paired up with somebody random for a coffee date.
+  * Meet people: Join #topic-lunches to get in on lunch outings. Join #meet-n-greet to be paired up with somebody random for a coffee date.
 
 ## Jobs and Resumes and Marketing and Networking
 

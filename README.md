@@ -31,10 +31,8 @@ Here are some tips and suggestions I have for how get organized and be effecient
   * [RefreshDenver](https://www.meetup.com/refreshdenver/) - Designers and Developers!
   * [Ember.js](https://www.meetup.com/Ember-js-Denver/) - Still have yet to actually _use_ Ember ever, but the community is just so awesome.
 
-* Slack. Participate in [Denver-Devs](https://denverdevs.org/).
-
+* Slack. Participate in [Denver-Devs](https://denverdevs.org/). Get to know your neighbors!
   * General conversation: join #topic-todayi to talk about and celebrate small victories and accomplishments, not necessarily code related.
-
   * Meet people: Join #topic-lunches to get in on lunch outings. Join #meet-in-greet to be paired up with somebody random for a coffee date.
 
 ## Jobs and Resumes and Marketing and Networking

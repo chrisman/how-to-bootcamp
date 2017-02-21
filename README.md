@@ -69,17 +69,13 @@ Invest in learning to type less. Learn shortcuts and use them relentlessly.
 
 __Atom Plugins__
 
-I didn't use Atom that much for that long. But here are a few plugins I remember liking.
+I didn't use Atom that much for that long. But here are a few plugins I remember liking. (Go to _Settings_ and _Install_ to search for and install packages.)
 
-* emmet - powerful HTML expansion
-
+* atom-beautify - fix indenting/format your file
 * color-picker - quick access to a color picker
-
-* pigmets - highlight colors in your CSS.
-
+* [emmet](http://docs.emmet.io/cheat-sheet/) - powerful HTML expansion
 * minimap - tiny little map of your whole file
-
-* atom-beautify - fix indenting
+* pigmets - highlight colors in your CSS.
 
 ## Other Tools and Programs
 
@@ -102,9 +98,7 @@ Naming things is hard. Pick a CSS methodology like [BEM] or [Suit] and try it ou
 Other resources:
 
 * [rem and em](https://zellwk.com/blog/rem-vs-em/) - how to use rem and em
-
 * [CSS Diner](https://flukeout.github.io/) - practice selectors
-
 * [Flexbox Froggy](http://flexboxfroggy.com/) - practice some flex display!
 
 You'll eventually start using a pre-processer and start writting [sass], which is awesome. And you'll start using a framework like [Bootstrap] or [Foundation], both of which are probably way overkill for small, simple projects. Definitely try them because you'll want to be familiar with them, but then consider trying a more minimal framework like [skeleton] or [milligram].
@@ -129,29 +123,24 @@ Supplemental stuff, if your brain can handle it.
 
 ### Podcasts
 
-I tried listening to podcasts a little bit, but never really got into it. Nonetheless, here are some that I remember enjoying, and some that a classmate of mine recommend.
-
-* [codepen](https://blog.codepen.io/radio/)
-
-* [thoughtbot](http://giantrobots.fm/)
-
-* [frontend five](https://frontendfive.codeschool.com/) - just five minutes
-
-* [five minutes of JS](https://fivejs.codeschool.com/)
-
-* [developer tea](https://spec.fm/podcasts/developer-tea)
-
-* [design details](https://spec.fm/podcasts/design-details)
-
-* [shop talk](http://shoptalkshow.com/)
-
-* [JS jabber](https://devchat.tv/js-jabber)
-
-* [sprint ux](https://www.sprintuxpodcast.com/) - by local Denver Devs
+I tried listening to podcasts a little bit, but never really got into it. Nonetheless, here are some that I remember enjoying, and some that a classmate of mine recommend, sorted alphabetically.
 
 * [changelog](https://changelog.com/podcast)
-
+* [codepen](https://blog.codepen.io/radio/)
+* [design details](https://spec.fm/podcasts/design-details)
+* [developer on fire](http://developeronfire.com/)
+* [developer tea](https://spec.fm/podcasts/developer-tea)
+* [five minutes of JS](https://fivejs.codeschool.com/)
+* [frontend five](https://frontendfive.codeschool.com/) - just five minutes
+* [full stack radio](http://www.fullstackradio.com/)
+* [js jabber](https://devchat.tv/js-jabber)
 * [programming throwdown](http://www.programmingthrowdown.com/)
+* [shop talk](http://shoptalkshow.com/)
+* [sprint ux](https://www.sprintuxpodcast.com/) - by local Denver Devs
+* [this developer's life](http://thisdeveloperslife.com/)
+* [thoughtbot](http://giantrobots.fm/)
+* [tim ferriss](http://tim.blog/podcast/) - not dev related, but productivity and business and lifehacky stuff
+* [unmistakable creative](https://unmistakablecreative.com/podcast/)
 
 ### Books
 

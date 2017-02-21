@@ -117,9 +117,9 @@ You'll eventually start using a pre-processer and start writting [sass], which i
 
 * [eloquent javascript](http://eloquentjavascript.net/) - read it and complete the exercises
 
-## Podcasts and Books and Blogs
+## Supplemental Material
 
-Supplemental stuff, if your brain can handle it.
+Podcasts, books, blogs, and stuff. If your brain can handle it. (As if you aren't already consuming _so much_.)
 
 ### Podcasts
 

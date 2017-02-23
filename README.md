@@ -60,7 +60,7 @@ __General__
 From _[Seven habits of effective text editing](http://www.moolenaar.net/habits.html)_ by the author of vim:
 
 > There are three basic steps:
-> 
+>
 > 1. While you are editing, keep an eye out for actions you repeat and/or spend quite a bit of time on.
 > 2. Find out if there is an editor command that will do this action quicker. Read the documentation, ask a friend, or look at how others do this.
 > 3. Train using the command. Do this until your fingers type it without thinking.
@@ -113,9 +113,15 @@ You'll eventually start using a pre-processer and start writting [sass], which i
 
 ## JavaScript
 
-* [exercism](http://exercism.io/) - complete coding challenges
-
+__Read__
+* [JavaScript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) - Crockford is the godfather of JavaScript. This book is short, and full of useful patterns and advice.
 * [eloquent javascript](http://eloquentjavascript.net/) - read it and complete the exercises
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) - functional programming to blow your mind
+
+__Do__
+* [ESLint](http://eslint.org/docs/rules/) - use a linter! ([Atom package](https://atom.io/packages/eslint))
+* [exercism](http://exercism.io/) - complete coding challenges
 
 ## Supplemental Material
 

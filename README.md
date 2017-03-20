@@ -19,7 +19,8 @@ Your new talents and skills will be of little use to you at the end if you're a 
 3. Focus. It may sound funny, but I swear putting on a pair of headphones and listening to soma.fm boosts my productivity 60%.
   * [space station](http://somafm.com/player/#/now-playing/spacestation)
   * [secret agent](http://somafm.com/player/#/now-playing/secretagent)
-This has almost nothing to do with the music itself, and almost everything to do with limiting distractions and interuptions. In _Peopleware_ the authors devote seven chapters to what makes an office effective for people who think for a living (i.e. coders) and the recurring answer is a place where you can shut the door and work quietly with no interuption. Or a place with little hideaways where you can hide out and work quietly with no interuption. That's what headphones do for me in a bootcamp environment if I can't get away in the way I want to.
+
+    This has almost nothing to do with the music itself, and almost everything to do with limiting distractions and interuptions. In _Peopleware_ the authors devote seven chapters to what makes an office effective for people who think for a living (i.e. coders) and the recurring answer is a place where you can shut the door and work quietly with no interuption. Or a place with little hideaways where you can hide out and work quietly with no interuption. That's what headphones do for me in a bootcamp environment if I can't get away in the way I want to.
 
 3. No coding before bed. I remember during stressful projects coding right up till I couldn't stay awake any longer, and then having stressful code dreams all night, and waking up feeling unrested and even more stressed. Give yourself a 'code freeze' an hour or more before bed, and do something to clear your mind. Yoga and a cup of tea. Something to relax and calm your mind.
 
@@ -49,7 +50,7 @@ This has almost nothing to do with the music itself, and almost everything to do
 * Consider blogging, even if just for yourself. It'll help you organize and articulate your thoughts. A 'Week In Review' post each week will help you keep track of what you know. You can roll your own with github pages + jekyll, or you can start posting on Medium.
 
 * Reach out to people on LinkedIn. I used to cold contact whoever had the equivelant title of "VP of Tech" at companies I was interested in and ask them out for a cup of coffee. Most people were surprisingly receptive to this. Especially if you frame the conversation as "I'm new to the industry and would like to hear about what you do and how you got started, and whether you have any advice for somebody just getting started." Try to meet one person working in your field of interest each week.
-  More reading: Brian Grazer calls these meetings _curiosity conversations_. He considers them the secret to his success, and discusses them extensively in _A Curious Mind_.
+    More reading: Brian Grazer calls these meetings _curiosity conversations_. He considers them the secret to his success, and discusses them extensively in _A Curious Mind_.
 
 ## Text Editors
 

@@ -19,7 +19,6 @@ Your new talents and skills will be of little use to you at the end if you're a 
 3. Focus. It may sound funny, but I swear putting on a pair of headphones and listening to soma.fm boosts my productivity 60%.
   * [space station](http://somafm.com/player/#/now-playing/spacestation)
   * [secret agent](http://somafm.com/player/#/now-playing/secretagent)
-  
   This has almost nothing to do with the music itself, and almost everything to do with limiting distractions and interuptions. In _Peopleware_ the authors devote seven chapters to what makes an office effective for people who think for a living (i.e. coders) and the recurring answer is a place where you can shut the door and work quietly with no interuption. Or a place with little hideaways where you can hide out and work quietly with no interuption. That's what headphones do for me in a bootcamp environment if I can't get away in the way I want to.
 
 3. No coding before bed. I remember during stressful projects coding right up till I couldn't stay awake any longer, and then having stressful code dreams all night, and waking up feeling unrested and even more stressed. Give yourself a 'code freeze' an hour or more before bed, and do something to clear your mind. Yoga and a cup of tea. Something to relax and calm your mind.
@@ -108,6 +107,7 @@ If your editor is your chef's knives, then your terminal is the rest of your kit
 ## Version Control
 
 > History is written by those with advanced git skills
+>
 > @elijahmanor
 
 * [oh shit, git!](http://ohshitgit.com/) - quick bailouts "in plain english"
@@ -157,6 +157,7 @@ __On Specificity__
 Specificity is a common pitfall when starting out, but Kyle has little sympathy for that:
 
 > Specificity is not confusing or hard to calculate. ID selectors get 100 points, class selectors get 10 points, element selectors get 1 point. The rule with the most points wins, tie-breaker is last to be declared.
+>
 > https://github.com/kylecoberly/css-style-guide
 
 ## JavaScript
@@ -200,7 +201,11 @@ I tried listening to podcasts a little bit, but never really got into it. Noneth
 
 * _The Pragmatic Programmer_ - It's on literally everybody's required reading list. I read it. It's good. You should probably read it too.
 
-* _Learn to Program_, Chris Pine
+* _Learn to Program_, Chris Pine. The "intro to programming" book recommended to me as prework reading before starting gSchool.
+
+* _Peopleware_, DeMarco & Lister. How people get things done.
+
+* _Scrum_, Jeff Sutherland. How software is made and how teams work together.
 
 ### Blogs
 

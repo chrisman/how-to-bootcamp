@@ -41,7 +41,8 @@ Your new talents and skills will be of little use to you at the end if you're a 
   * [DenverScrip](https://www.meetup.com/DenverScript/)
   * [RefreshDenver](https://www.meetup.com/refreshdenver/) - Designers and Developers!
   * [Ember.js](https://www.meetup.com/Ember-js-Denver/) - Still have yet to actually _use_ Ember ever, but the community is just so awesome.
-  Check out #topic-community and #topic-meetup on DenverDevs for more.
+
+    Check out #topic-community and #topic-meetup on DenverDevs for more.
 
 ## Jobs and Resumes and Marketing and Networking
 
@@ -50,6 +51,7 @@ Your new talents and skills will be of little use to you at the end if you're a 
 * Consider blogging, even if just for yourself. It'll help you organize and articulate your thoughts. A 'Week In Review' post each week will help you keep track of what you know. You can roll your own with github pages + jekyll, or you can start posting on Medium.
 
 * Reach out to people on LinkedIn. I used to cold contact whoever had the equivelant title of "VP of Tech" at companies I was interested in and ask them out for a cup of coffee. Most people were surprisingly receptive to this. Especially if you frame the conversation as "I'm new to the industry and would like to hear about what you do and how you got started, and whether you have any advice for somebody just getting started." Try to meet one person working in your field of interest each week.
+
     More reading: Brian Grazer calls these meetings _curiosity conversations_. He considers them the secret to his success, and discusses them extensively in _A Curious Mind_.
 
 ## Text Editors

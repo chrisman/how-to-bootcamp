@@ -70,7 +70,7 @@ Learn your text editor in the way that a master chef learns their knives: practi
 
 Invest in learning to type less. Learn shortcuts and use them relentlessly.
 
-__vim__
+### vim
 
 >On this path effort never goes to waste, and there is no failure. Even a little effort toward [text editing mastery] will protect you from the greatest fear.
 >
@@ -83,7 +83,7 @@ Some people like [vim-adventures], which is cute. You may be better served just 
 [vim-adventures]: https://vim-adventures.com/
 [vimcasts.org]: vimcasts.org
 
-__Atom__
+### Atom
 
 Bootcamps today seem to suggest starting with Atom. Mine did. And I used it for a while in order to give it a shot, and to be using the same tools as my fellow students.
 
@@ -165,17 +165,41 @@ Specificity is a common pitfall when starting out, but Kyle has little sympathy 
 >
 > https://github.com/kylecoberly/css-style-guide
 
+__Color tools__
+
+Build, look at, steal, remix color palettes.
+
+* [coolors.co] - top feature: you can upload pics and use coolors to generate palettes from it.
+* [colour lovers]
+* [dribbble.com/colors]
+* [paletton]
+* __bonus:__ [beyonce palettes] - for inspiration
+
+[coolors.co]: https://coolors.co/
+[colour lovers]: http://www.colourlovers.com/palettes
+[dribbble.com/colors]: https://dribbble.com/colors/eeaa66
+[paletton]: http://paletton.com/
+[beyonce palettes]: http://beyoncepalettes.tumblr.com/
+
 ## JavaScript
 
-__Read__
+### Read
 * [JavaScript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) - Crockford is the godfather of JavaScript. This book is short, and full of useful patterns and advice.
 * [eloquent javascript](http://eloquentjavascript.net/) - read it and complete the exercises
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) - functional programming to blow your mind
 
-__Do__
+### Do
 * [ESLint](http://eslint.org/docs/rules/) - use a linter! ([Atom package](https://atom.io/packages/eslint))
 * [exercism](http://exercism.io/) - complete coding challenges
+
+### Understand
+
+Be able to explain and talk about the following.
+
+* scope and closures
+* Object Oriented Programming, and Classical vs. Prototypal OOP
+* functional programming
 
 ## Supplemental Material
 
@@ -204,13 +228,23 @@ I tried listening to podcasts a little bit, but never really got into it. Noneth
 
 ### Books
 
+Here are some books 📚!
+
+__Programming and Thinking__
 * _The Pragmatic Programmer_ - It's on literally everybody's required reading list. I read it. It's good. You should probably read it too.
+* _Learn to Program_, Chris Pine - The "intro to programming" book recommended to me as prework reading before starting gSchool.
+* _How To Solve It_, Polya - How do you solve a problem when you don't know the approach, or how to start?
+* _How to Measure Anything_, Hubbard
 
-* _Learn to Program_, Chris Pine. The "intro to programming" book recommended to me as prework reading before starting gSchool.
+__Design__
+* _Design for Hackers_, Kadavy
+* _Notes on the Synthesis of Form_, Christopher Alexander - Alexander's writings transcend architecture and become treatises on design, and a kind of metaphysics unto themselves.
+* _Design of Everyday Things_, Norman
 
+__Humans__
 * _Peopleware_, DeMarco & Lister. How people get things done.
-
 * _Scrum_, Jeff Sutherland. How software is made and how teams work together.
+* _Mythical Man Month_, Brooks
 
 ### Blogs
 

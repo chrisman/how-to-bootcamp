@@ -1,8 +1,6 @@
 # How To Bootcamp
 
-Here are some tips and suggestions I have for how get organized and be effecient in a coding bootcamp. 
-
-At the time of this writing, I have, over the last year, attended and graduated from a bootcamp focusing on full stack web development, interviewed at several tech companies in Denver, and finally accepted a position as a software engineer at [Skookum](http://skookum.com/).
+Over the past year, I went to Full Stack at Galvanize, and then got a job as a software engineer at Skookum. Based on those experiences, here are some tips and suggestions for how get organized and be effecient that I have compiled for friends who are starting the same kind of undertaking, and which I am now making available here for you, dear reader.
 
 ## Contents
 
@@ -26,5 +24,3 @@ Part 3: Languages
 Part 4: Bonus Material
 
 9. [Recommended Reading and Listening](08_reading.md)
-
-

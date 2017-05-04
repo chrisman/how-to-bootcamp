@@ -43,7 +43,7 @@ __Humans__
 * _Scrum_, Jeff Sutherland. How software is made and how teams work together.
 * _Mythical Man Month_, Brooks
 
-### Blogs
+### Blogs (and aggregators)
 
 * Reddit. Maybe start with [/r/web_design](https://www.reddit.com/r/web_design/) and branch out to "related subreddits" in the side bar
 

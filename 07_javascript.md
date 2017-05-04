@@ -9,6 +9,7 @@
 ### Do
 * [ESLint](http://eslint.org/docs/rules/) - use a linter! ([Atom package](https://atom.io/packages/eslint))
 * [exercism](http://exercism.io/) - complete coding challenges
+* [nodeschool](https://nodeschool.io/#workshopper-list) - an okay way to practice and learn javascript and node
 
 ### Understand
 

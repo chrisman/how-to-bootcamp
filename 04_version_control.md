@@ -4,6 +4,12 @@
 >
 > @elijahmanor
 
+Learn git and github. You'll never lose any work, and will be able to collaborate with anybody, any time, any where. Including past and future versions of yourself. git allows your code to basically exist in it's own [time and relative dimension in space](https://en.wikipedia.org/wiki/TARDIS).
+
+![relevant xkcd](https://imgs.xkcd.com/comics/git_2x.png)
+
+[https://xkcd.com/1597/](https://xkcd.com/1597/)
+
 * [oh shit, git!](http://ohshitgit.com/) - quick bailouts "in plain english"
 * [git-game](https://github.com/git-game/git-game) - see how much you don't actually know about git
 * [git commit emoji](https://github.com/dannyfritz/commit-message-emoji)

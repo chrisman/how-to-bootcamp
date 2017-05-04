@@ -6,9 +6,9 @@ On tools in general, set aside up to an hour a week to do nothing but investigat
 
 1. [Spectacle](https://www.spectacleapp.com/) - window management for MacOS
 
-2. [flux](https://justgetflux.com/) - don't burn out your retinas
+2. [flux](https://justgetflux.com/) - don't burn out your retinas. Update: No longer necessary now that macbooks have Night Shift?
 
 3. [Sip](http://sipapp.io/) - color picker
 
-4. [screenhero](https://screenhero.com/) - for screensharing. many a late night debugging session was done over screenhero.
+4. [screenhero](https://screenhero.com/) - for screensharing. Many a late night debugging session was done over screenhero.
 

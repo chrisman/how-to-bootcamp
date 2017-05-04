@@ -12,7 +12,7 @@ Everybody who completes the program will have roughly the same skill level. What
 * Meetups. Go to a meetup once a week or so. You can live off the free pizza and beer, and you'll meet people who are established in the industry, and also new people who are in the same boat as you are. In my experience, the meetup scene is very welcoming to beginners and newbies. Don't be afraid of seeming like you don't belong. It's kind of like coding: just start doing it, and then you're a coder! Just go to a meetup, and then you're someone who goes to meetups!
   A couple of especially friendly meetups I've been to:
   * [HTML5 User Group](https://www.meetup.com/HTML5-Denver-Users-Group/)
-  * [DenverScrip](https://www.meetup.com/DenverScript/)
+  * [DenverScript](https://www.meetup.com/DenverScript/)
   * [RefreshDenver](https://www.meetup.com/refreshdenver/) - Designers and Developers!
   * [Ember.js](https://www.meetup.com/Ember-js-Denver/) - Still have yet to actually _use_ Ember ever, but the community is just so awesome.
 
@@ -24,5 +24,5 @@ Everybody who completes the program will have roughly the same skill level. What
 
 * Reach out to people on LinkedIn. I used to cold contact whoever had the equivelant title of "VP of Tech" at companies I was interested in and ask them out for a cup of coffee. Most people were surprisingly receptive to this. Especially if you frame the conversation as "I'm new to the industry and would like to hear about what you do and how you got started, and whether you have any advice for somebody just getting started." Try to meet one person working in your field of interest each week.
 
-    More reading: Brian Grazer calls these meetings _curiosity conversations_. He considers them the secret to his success, and discusses them extensively in _A Curious Mind_.
+    More reading: Brian Grazer calls these meetings _curiosity conversations_. He considers them the secret to his success, and discusses them extensively in [_A Curious Mind_](https://www.goodreads.com/book/show/22669010-a-curious-mind).
 

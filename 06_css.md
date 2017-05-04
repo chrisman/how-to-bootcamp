@@ -1,5 +1,7 @@
 ## CSS
 
+![css is awesome](https://laughingsquid.com/wp-content/uploads/css-is-awesome-20090407-142244.jpg)
+
 Naming things is hard. Pick a CSS methodology like [BEM] or [Suit] and try it out. It will at least give you a different vocabulary with which to think about and organize your project.
 
 Other resources:

@@ -2,7 +2,7 @@
 
 Over the past year, I completed the Full Stack program at [Galvanize](http://www.galvanize.com/), and got a job as a software engineer at [Skookum](http://skookum.com/). Based on these experiences, I have compiled some tips and suggestions for how get organized and be effecient for friends who are starting the same kind of undertaking, and which I am now making available here for you, dear reader.
 
-If you have a similar, or better, background, or even if you're brand new to the scene, you can contribute to this document by submitting a pull request or opening an issue. Corrections, suggestions or additions, and general questions are all welcome.
+If you have a similar, or better, background, or even if you're brand new to the scene, you can contribute to this document by submitting a pull request, or ask a question by [opening an issue](https://github.com/chrisman/how-to-bootcamp/issues/new). Corrections, suggestions or additions, and general questions are all welcome.
 
 ## Contents
 
@@ -12,6 +12,10 @@ Part 1: Non-technical Stuff. Most of the content is here. More so than what is i
 2. [Get To Know People](01_people.md)
 
 Part 2: Use Your Tools
+
+> Treat your tools like a friend. Keep 'em by ya. Never let 'em down, and they're always at your side.
+>
+> - _Mario Mario, 1993_
 
 3. [Editing Text](02_editors.md)
 4. [Terminal](03_terminal.md)

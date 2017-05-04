@@ -1,10 +1,12 @@
 # How To Bootcamp
 
-Over the past year, I went to Full Stack at Galvanize, and then got a job as a software engineer at Skookum. Based on those experiences, here are some tips and suggestions for how get organized and be effecient that I have compiled for friends who are starting the same kind of undertaking, and which I am now making available here for you, dear reader.
+Over the past year, I completed the Full Stack program at [Galvanize](http://www.galvanize.com/), and got a job as a software engineer at [Skookum](http://skookum.com/). Based on these experiences, I have compiled some tips and suggestions for how get organized and be effecient for friends who are starting the same kind of undertaking, and which I am now making available here for you, dear reader.
+
+If you have a similar, or better, background, or even if you're brand new to the scene, you can contribute to this document by submitting a pull request or opening an issue. Corrections, suggestions or additions, and general questions are all welcome.
 
 ## Contents
 
-Part 1: Non-technical Stuff
+Part 1: Non-technical Stuff. Most of the content is here. More so than what is in tools or languages, because that stuff they'll teach you explicitely in your bootcamp.
 
 1. [Physical and Mental Health](00_health.md)
 2. [Get To Know People](01_people.md)

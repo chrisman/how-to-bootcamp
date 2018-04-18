@@ -15,7 +15,7 @@ Part 2: Use Your Tools
 
 > Treat your tools like a friend. Keep 'em by ya. Never let 'em down, and they're always at your side.
 >
-> - _Mario Mario, 1993_
+> - _[Mario Mario, 1993](https://www.imdb.com/title/tt0108255/)_
 
 3. [Editing Text](02_editors.md)
 4. [Terminal](03_terminal.md)

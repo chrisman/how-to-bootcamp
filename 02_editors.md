@@ -27,6 +27,8 @@ Some people like [vim-adventures], which is cute. You may be better served just 
 [vim-adventures]: https://vim-adventures.com/
 [vimcasts.org]: vimcasts.org
 
+I have a separate [gist](https://gist.github.com/chrisman/99cc109416011f853018e7898d832873) of vim tips if you want more of my opinions on the subject.
+
 ### Atom
 
 Bootcamps today seem to suggest starting with Atom. Mine did. And I used it for a while in order to give it a shot, and to be using the same tools as my fellow students.

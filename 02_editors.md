@@ -14,7 +14,7 @@ Invest in learning to type less. Learn shortcuts. Use them relentlessly and unap
 
 ### vim
 
->On this path effort never goes to waste, and there is no failure. Even a little effort toward [text editing mastery] will protect you from the greatest fear.
+>On this path effort never goes to waste, and there is no failure. Even a little effort toward awareness will protect you from the greatest fear.
 >
 > _Bhagavad Gita 2:40_
 

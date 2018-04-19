@@ -2,7 +2,7 @@
 
 If your editor is your chef's knives, then your terminal is the rest of your kitchen: your counter space where you do all your work, the cabinets where your ingredients are stored, and where you keep other appliances that help you prep your ingredients.
 
-0. [iterm2](https://www.iterm2.com/features.html) - replacement for Terminal.app
+0. [iterm2](https://www.iterm2.com/features.html) - replacement for Terminal.app. People seem to swear by it, but I just use Terminal.app
 
 1. [ohmyzsh](http://ohmyz.sh/) - framework for the zsh shell. Looks pretty. If nothing else, worth it for the github plugins. Alternately, try [bash-it](https://github.com/Bash-it/bash-it).
 
